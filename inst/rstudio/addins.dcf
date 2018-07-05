@@ -1,9 +1,9 @@
 Name: ImagingApp
 Description: Run Imaging Data Analysis App
 Binding: RunImagingApp
-Interactive: false
+Interactive: true
 
 Name: FlowApp
 Description: Flow Imaging Data Analysis App
 Binding: RunFlowApp
-Interactive: false
+Interactive: true
