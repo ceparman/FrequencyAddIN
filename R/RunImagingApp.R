@@ -5,7 +5,7 @@
 #'@export
 RunImagingApp<- function() {
 
- shiny::runGitHub(repo="ceparman/Imaging-App")
+ shiny::runGitHub(repo="ceparman/Imaging-App",launch.browser=TRUE)
   return()
 }
 

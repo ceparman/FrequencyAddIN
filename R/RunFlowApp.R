@@ -6,7 +6,7 @@
 
 RunFlowApp<- function() {
 
- shiny::runGitHub(repo="ceparman/Flow-App")
+ shiny::runGitHub(repo="ceparman/Flow-App",,launch.browser=TRUE)
   return()
 }
 
