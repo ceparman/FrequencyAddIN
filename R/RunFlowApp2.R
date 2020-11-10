@@ -5,7 +5,7 @@
 #'@export
 RunFlowApp2<- function() {
 
- shiny::runGitHub(repo="ceparman/Flow-App-2",launch.browser=TRUE)
+ shiny::runGitHub(repo="ceparman/Flow-App2",launch.browser=TRUE)
   return()
 }
 
