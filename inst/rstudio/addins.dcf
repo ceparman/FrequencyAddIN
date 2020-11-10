@@ -12,3 +12,8 @@ Name: ImagingApp2
 Description: Run Imaging Data Analysis App w/ LIMS Support
 Binding: RunImagingApp2
 Interactive: true
+
+Name: FlowApp2
+Description: Run Flow Data Analysis App w/ LIMS Support
+Binding: RunImagingApp2
+Interactive: true
